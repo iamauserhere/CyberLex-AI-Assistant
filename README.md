@@ -1,4 +1,4 @@
-# 🔐 Cyber Law AI Assistant (RAG Chatbot)
+# 🔐 CyberLexAI Assistant (RAG Chatbot)
 
 ## Overview
 This project is an AI-powered chatbot that answers cybersecurity and cyber law-related questions using a Retrieval-Augmented Generation (RAG) approach. It ensures responses are grounded in provided data instead of relying solely on general model knowledge.
