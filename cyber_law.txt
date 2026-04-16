@@ -1,0 +1,4 @@
+Section 66 of the IT Act deals with computer-related offences such as hacking and unauthorized access. The punishment includes imprisonment up to 3 years or a fine.
+Phishing is a cyber attack where attackers trick users into revealing sensitive information like passwords and bank details.
+Ransomware is malicious software that encrypts a victim’s data and demands payment to restore access.
+AI can be used in cybercrime through deepfake scams, automated phishing, and malware generation.
